@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "177432672178",
+    "project_id": "exalted-fox",
+    "storage_bucket": "exalted-fox.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:177432672178:android:1420930d0f0d1c01d8d6ab",
+        "android_client_info": {
+          "package_name": "com.my.hc.rpg.kingdom.simulato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "177432672178-qtdunc51rnrtllvcflrp5c5c40816gnm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDD6Nj9wMXWOW_3fhzyRCiOfvmR64ZWbYg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "177432672178-qtdunc51rnrtllvcflrp5c5c40816gnm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
